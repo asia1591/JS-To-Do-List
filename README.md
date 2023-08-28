@@ -2,8 +2,8 @@
 
 > **Live Link:** [https://bla.com](https://bla.com)
 
-### **There are daily routines already added on the start screen.**
-![][img1]
+### **There are daily routines already added on the start screen.** ![][img1]
+
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-### **You can edit the newly added task with the "edit" button, or you can delete it with the "delete" button.**
+### **You can edit the newly added task with the "edit" button and then save it by pressing the "save" button or delete it with the "delete" button.**
 ![][img3]
 
 
