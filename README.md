@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # TO DO LİST
 
 > **Live Link:** [https://bla.com](https://bla.com)
