@@ -2,18 +2,19 @@
 
 > **Live Link:** [https://bla.com](https://bla.com)
 
-![][img1]
 ### **There are daily routines already added on the start screen.**
+![][img1]
 
 
 
-![][img2]
 ### **You can add a new task by entering a new task in the input and pressing the "add tasks" button.**
+![][img2]
 
 
 
-![][img3]
 ### **You can edit the newly added task with the "edit" button, or you can delete it with the "delete" button.**
+![][img3]
+
 
 ## Build
 
