@@ -7,12 +7,12 @@
 
 
 
-### **You can add a new task by entering a new task in the input and pressing the "add tasks" button.** ![][img2]
+### **You can add a new task by entering a new task in the input and pressing the "Add Task" button.** ![][img2]
 
 
 
 
-### **You can edit the newly added task with the "edit" button and then save it by pressing the "save" button or delete it with the "delete" button.** ![][img3]
+### **You can edit the newly added task with the "EDIT" button and then save it by pressing the "SAVE" button or delete it with the "DELETE" button.** ![][img3]
 
 
 
