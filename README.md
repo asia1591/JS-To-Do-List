@@ -1,6 +1,6 @@
 # TO DO LİST
 
-> **Live Link:** [https://bla.com](https://bla.com)
+> **Live Link:** [https://silly-piroshki-64fb09.netlify.app/](https://silly-piroshki-64fb09.netlify.app/)
 
 ### **There are daily routines already added on the start screen.** ![][img1]
 
@@ -26,7 +26,7 @@
 
 > ### Project Link
 >
-> [**https://bla.com**][projectLink]
+> [**https://silly-piroshki-64fb09.netlify.app/**][projectLink]
 
 ## Contact
 
@@ -39,3 +39,4 @@
 [img3]: ./img/img3.png
 [mail]: arslnnasyaa@gmail.com
 [instagram]: https://www.instagram.com/asyaa.arsln/#
+[projectLink]: https://silly-piroshki-64fb09.netlify.app/
